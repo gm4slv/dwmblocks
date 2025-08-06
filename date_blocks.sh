@@ -1,7 +1,7 @@
 #!/bin/bash
 #
 
-DATE=`date '+%b %d (%a) %H:%M '`
+DATE=`date '+%b %d %H:%M '`
 
 echo $DATE
 
